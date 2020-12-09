@@ -30,5 +30,6 @@ This repo is a collection of note and pieces in my adventures to that end.
 
 * My ED25519 key didn't work, but my RSA key did.
 
+## Neofetch
 
-
+* add second "drive" at `/home`
